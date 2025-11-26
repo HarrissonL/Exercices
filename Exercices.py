@@ -30,4 +30,4 @@ class Stringfoo:
     def set_string(self, msg):
         self
 
-s1 = Stringfoo()
+s1 = Stringfoo(10
